@@ -1,3 +1,4 @@
+<!--
 ### Hi there 👋
 <a href="https://www.linkedin.com/in/jsmith1031/">
   <img align="left" alt="Jeffrey's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
@@ -5,7 +6,7 @@
 </a>
 
 <br></br>
-<!--
+
 **jsmith1031/jsmith1031** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
